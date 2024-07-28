@@ -1,0 +1,28 @@
+
+.container{
+    height: auto;
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    margin:0px 0px 0px 500px ;
+}
+
+.container > .left-section{
+    height: 700px;
+    width: 40%;
+    
+}
+
+
+img{
+    width: 200px;
+    border-radius: 20px;
+    
+
+}
+
+.container > .right-section{
+    height: 700px;
+    width: 50%;
+    
+}
